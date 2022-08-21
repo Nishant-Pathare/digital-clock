@@ -1,5 +1,6 @@
 # digital-clock
 Although I knew basics of html, this is my first ever proper interaction with all the three languages.
+
 Digital clock with dynamic day and time using HTML, CSS, JS.
 
 **Resources:-**
